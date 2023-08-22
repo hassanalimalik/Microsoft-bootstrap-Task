@@ -64,6 +64,7 @@
 .all-about-site-inner{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .all-about-site-inner ul{
     list-style-type: none;
